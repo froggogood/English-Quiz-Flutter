@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project.
+A mini English QUIZ with Flutter for Mobile dev class.
 
 ## Getting Started
 
