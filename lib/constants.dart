@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-Color correct = const Color.fromARGB(255, 75, 235, 96);
-Color incorrect = const Color.fromARGB(255, 216, 44, 44);
-Color neutral = Color.fromARGB(255, 209, 205, 205);
-Color background = Color.fromARGB(255, 12, 28, 46);
+const Color correct = Color(0xFF32AB58);
+const Color incorrect = Color(0xFFAB3232);
+const Color neutral = Color(0xFFE7E7E7);
+const Color backGround = Color(0xFF1A3464);
