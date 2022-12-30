@@ -30,7 +30,10 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-/build/
+/build/unit_test_assets/
+/build/test_cache/
+/build/26383819226ac98ba4206913a3174670/
+/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill
 
 # Symbolication related
 app.*.symbols
